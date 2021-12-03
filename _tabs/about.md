@@ -11,7 +11,7 @@ I am a **Software Engineer** focusing on Infrastructure, Reliability & DevOps.
 
 My interests are Linux, Databases open source software, DevOps, distributed computing (Kubernetes), containerization, and the cloud (Azure, AWS, GCP).
 
-I have worked with other programming languagues in the past, but I code primarily in Python, Go, and shell (BASH & Powershell).
+I have worked with other programming languagues in the past, but I code primarily in Python, Go, and shell scripting (BASH & Powershell).
 
 My other interests are coffee hunting, furniture design, teaching & synthesizing good laughter 😀. Reach out to me (email address below) if you have any questions about these types of things, or maybe you wanna talk about space rocks , I'm game!
 
