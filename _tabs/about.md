@@ -5,7 +5,7 @@ order: 4
 ---
 
 
-<img style="float: right;" src="https://github.com/bitsofsteve.png?size=200">
+<img style="float: right;" src="https://github.com/bitsofsteve.png?size=200" alt="Profile Image">
 
 I am a **Software Engineer** focusing on Infrastructure, Reliability & DevOps.
 
