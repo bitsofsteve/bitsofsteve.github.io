@@ -15,9 +15,9 @@ I have worked with other programming languagues in the past, but I code primaril
 
 My other interests are coffee hunting, furniture design, teaching & synthesizing good laughter 😀. Reach out to me (email address below) if you have any questions about these types of things, or maybe you wanna talk about space rocks , I'm game!
 
->> I currently lead the Infrastructure, Reliability & Ops team at [Kippa](kippa.africa). 
+>> I currently lead the Infrastructure, Reliability & Ops team at **Kippa**. 
 
->> I am also an active contributor to the open source project at [OpenMined](openmined.org) where I am a course content creator and also leading the CI infrastruture engineering team.
+>> I am also an active contributor to the open source project at **OpenMined** where I am a course content creator and also leading the CI infrastruture engineering team.
 
 ### Contact me
 
