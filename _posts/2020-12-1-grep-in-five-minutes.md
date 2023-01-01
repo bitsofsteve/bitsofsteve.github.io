@@ -10,26 +10,23 @@ Linux grep is a command-line utility that allows users to search for specific st
 
 To use grep, you simply specify the string you are searching for and the file or files you want to search within. For example, to search for the string "Hello" within the file "greeting.txt", you would use the following command:
 
-    ```bash
-    grep 'Hello' greeting.txt
-    
-    ```
+```bash
+grep 'Hello' greeting.txt
+```
 
 This will print out any lines in the file that contain the string "Hello".
 
 You can also search multiple files at once by specifying a list of file names, separated by a space. For example, to search for the string "Hello" within the files "greeting.txt" and "message.txt", you would use the following command:
 
-    ```bash
-    grep 'Hello' greeting.txt message.txt
-    
-    ```
+```bash
+grep 'Hello' greeting.txt message.txt
+```
 
 In addition to searching for specific strings, grep also supports regular expressions, which allow you to search for more complex patterns. For example, to search for any line that contains a number, you could use the following regular expression:
 
-    ```bash
-    grep '[0-9]' greeting.txt
-    
-    ```
+```bash
+grep '[0-9]' greeting.txt    
+```
 
 This would print out any lines that contain a number, regardless of the specific number.
 
@@ -37,10 +34,9 @@ Grep also has a number of useful options that allow you to customize your search
 
 Here is an example of using these options to search for the string "Hello" within the file "greeting.txt", but printing out only the lines that do not contain the string, and displaying a count of the number of lines that were found:
 
-    ```bash
-    grep -c 'Hello' greeting.txt
-    
-    ```
+```bash
+grep -c 'Hello' greeting.txt    
+```
 
 Grep is an extremely useful tool that is an essential part of any Linux user's toolkit. With its powerful search capabilities and flexible options, it is sure to be a valuable asset in any text-based data analysis project.
 
