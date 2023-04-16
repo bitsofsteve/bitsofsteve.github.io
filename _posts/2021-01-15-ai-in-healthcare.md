@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI in Healthcare: The Intersection of Medicine, Software Engineering, and Ethics
+title: AI in Healthcare; The Intersection of Medicine, Software Engineering, and Ethics
 categories: [Blog]
 tags: [AI, Healthcare, Ethics, Software Engineering]
 ---
