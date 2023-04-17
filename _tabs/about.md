@@ -11,7 +11,7 @@ I am a Software Engineer specializing in Infrastructure, Reliability, and DevOps
 
 In the past, I have worked with various programming languages, but my current focus is on Python, Go, and shell scripting (BASH & Powershell). When I'm not coding, you can find me coffee hunting, designing furniture, teaching, and enjoying a good laugh 😄. I'm always game for a conversation about anything from software development to space rocks.
 
-If you have any questions, want to discuss my interests, or simply want to chat, don't hesitate to reach out to me at (email address below). Let's create a better world together, one line of code at a time! 🚀
+If you have any questions, want to discuss my interests, or simply want to chat, don't hesitate to reach out to me at (email address below). Let's create a better world together, one line of code at a time!
 
 
 >> Software Engineer at [OpenMined](https://www.openmined.org/), a nonprofit organization dedicated to building a privacy-preserving, decentralized, and open source ecosystem for AI.
