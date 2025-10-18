@@ -20,12 +20,13 @@ timezone: Africa/Lagos
 
 title: Stephen Gabriel                     # the main title
 
-tagline: Software Engineer   # it will display as the sub-title
+tagline:   Engineer & Thinker   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Blog and portfolio focused on Kubernetes, Docker,
   Containers, DevOps, Reliability, Databases, Linux
   Cloud services and other technical content.
+  Philosophy, life lessons, and personal growth.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://bitsofsteve.com'
@@ -34,7 +35,7 @@ github:
   username: bitsofsteve             # change to your github username
 
 twitter:
-  username: cyberdroidmann            # change to your twitter username
+  username: bitsofsteve          # change to your twitter username
 
 social:
   # Change to your full name.
@@ -43,11 +44,11 @@ social:
   email: stephen@bitsofsteve.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/cyberdroidmann      # change to your twitter homepage
+    - https://twitter.com/bitsofsteve      # change to your twitter homepage
     - https://github.com/bitsofsteve       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/stephengabriel
+    - https://www.linkedin.com/#
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
