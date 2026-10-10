@@ -32,7 +32,7 @@ date_format:
   tooltip: '%a, %b %e, %Y, %l:%M %p %z'
   post:
     long: '%b %e, %Y'
-    short: '%b %e'
+    short: '%b %e, %Y'
     archive_month: '%b'
 
 copyright:
